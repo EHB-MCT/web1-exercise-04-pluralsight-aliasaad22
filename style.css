@@ -1,0 +1,32 @@
+body {
+	background: linear-gradient(to right, #651758, #311562, #1b1834);
+
+	font-family: sans-serif;
+	margin: 50px;
+}
+h1 {
+	color: #ff1675;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+h2 {
+	color: #ff1675;
+	font-size: 48px;
+	font-family: sans-serif;
+	color: #e9eaea;
+}
+
+a {
+	background-color: #ff1675;
+	border-radius: 25px;
+	padding: 15px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover {
+	background-color: #333;
+}
+p {
+	color: white;
+}
